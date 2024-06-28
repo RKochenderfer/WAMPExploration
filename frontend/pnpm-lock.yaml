@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      autobahn-browser:
+        specifier: ^22.11.1
+        version: 22.11.1
+
+packages:
+
+  autobahn-browser@22.11.1:
+    resolution: {integrity: sha512-LXsP82RdaxtzW81Zh9Q139sbgz8lZOJDcUOiuQoXNiLK39Qy98raRgOOJu7WBkFk/jB6//HbJdhjob7z9VsaxQ==}
+
+snapshots:
+
+  autobahn-browser@22.11.1: {}
